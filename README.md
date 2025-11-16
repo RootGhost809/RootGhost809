@@ -23,7 +23,7 @@ Here you'll find a mix of professional projects, personal experiments, and open�
 
 ##  Fun Facts
 - I love breaking things (ethically) to understand how they work.  
-- My favorite debugging tool: coffee ☕ + persistence.  
+- My favorite debugging tool: coffee  + persistence.  
 - Motto: *“Hack to protect, build to last.”*
 
 
